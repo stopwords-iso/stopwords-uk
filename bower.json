@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-uk",
+  "description": "The most comprehensive collection of stopwords for the ukrainian language.",
+  "keywords": [
+    "ukrainian",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-uk",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-uk.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
